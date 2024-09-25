@@ -11,6 +11,7 @@ This project demonstrates a **Pick-and-Place Mechanism** using **Siemens PLC** w
 
 ### Key Components:
 - **Single Push Button (Input)**: The only input, responsible for starting and controlling the process.
+- **Emergency Button (I0.1)**: Halts all operations immediately when activated.
 - **8 Timers**: Ensure proper delays at each stage of the process.
 - **4 Outputs (Q0.0 to Q0.3)**: Control different stages of the system.
 - **Counter**: Tracks the number of cycles.
