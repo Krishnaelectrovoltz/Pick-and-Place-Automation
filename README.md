@@ -6,6 +6,8 @@ This project demonstrates a **Pick-and-Place Mechanism** using **Siemens PLC** w
 
 *(Note: Please refer to the PDF provided above, as the image shown below is not clear and may not fully convey the necessary details.)*
 
+https://github.com/user-attachments/assets/bf14cf67-d5f5-4500-ba03-96df0cbc5363
+
 ![pick and place robot logic - converted_page-0001](https://github.com/user-attachments/assets/49e42776-747d-4755-bf2c-da4a28e68670)
 
 
