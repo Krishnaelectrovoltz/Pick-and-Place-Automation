@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/bf14cf67-d5f5-4500-ba03-96df0cbc5363
 
 
 ### Key Components:
-- **Single Push Button (I0.0)**: The only input, responsible for starting and controlling the process.
+- **Single Push Button (I0.0)**: The only input, responsible for starting and controlling the process. 
 - **Emergency Button (I0.1)**: Halts all operations immediately when activated.
 - **8 Timers**: Ensure proper delays at each stage of the process.
 - **4 Outputs (Q0.0 to Q0.3)**: Control different stages of the system.
