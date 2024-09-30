@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/bf14cf67-d5f5-4500-ba03-96df0cbc5363
 
 ![pick and place robot logic - converted_page-0001](https://github.com/user-attachments/assets/49e42776-747d-4755-bf2c-da4a28e68670)
 
-
+ 
 ### Key Components:
 - **Single Push Button (I0.0)**: The only input, responsible for starting and controlling the process. 
 - **Emergency Button (I0.1)**: Halts all operations immediately when activated.
