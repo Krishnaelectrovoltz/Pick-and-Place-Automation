@@ -1,6 +1,6 @@
 # Pick-and-Place Mechanism using Siemens PLC (Ladder Logic)
  
-## Project Description
+## Project Description 
 
 This project demonstrates a **Pick-and-Place Mechanism** using **Siemens PLC** with **Ladder Logic**, featuring 4 outputs and 8 timers. The system is controlled by a single push button input and is designed to automate a sequence of object handling on a conveyor system, ultimately moving the object to transport. The system runs until a predefined cycle count is reached, after which the process stops.
 
